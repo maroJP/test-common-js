@@ -1,0 +1,19 @@
+{
+  "name": "test-common-js",
+  "version": "0.0.1",
+  "authors": [
+    "Maro"
+  ],
+  "description": "Test Common JS",
+  "main": "dist/js/test-common.js",
+  "keywords": [
+    "Bower",
+    "Test"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.arksystems.co.jp/",
+  "ignore": [
+  ],
+  "dependencies": {
+  }
+}

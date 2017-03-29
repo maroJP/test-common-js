@@ -1,0 +1,5 @@
+build.path.exportedFolder=src/js
+build.path.sourceFolder=src/ts
+compiler.outputDirOption=dist/js
+compiler.outputFileOption=test-common.js
+eclipse.preferences.version=1
