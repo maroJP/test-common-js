@@ -1,19 +1,17 @@
 {
-  "name": "test-common-js",
-  "version": "0.0.1",
-  "authors": [
-    "Maro"
-  ],
-  "description": "Test Common JS",
-  "main": "dist/js/test-common.js",
+  "name": "typescript-lib",
+  "homepage": "https://github.com/maroJP/test-common-js",
+  "description": "test",
+  "main": "dist/test-common.js",
   "keywords": [
-    "Bower",
-    "Test"
+    "test"
+  ],
+  "authors": [
+    "maro"
   ],
   "license": "MIT",
-  "homepage": "http://www.arksystems.co.jp/",
-  "ignore": [
-  ],
+  "private": true,
   "dependencies": {
+    "jquery": "^3.2.1"
   }
 }
